@@ -1,0 +1,23 @@
+k=2 (clause size)  r=2 (uses per variable): moduli that work -> [11, 19, 29, 31, 41]
+    p=11: 20 bases, e.g. M=[[1, 4], [1, 8]]  variable sig=[6, 0, 10]  clause sig=[8, 0, 3]
+    p=19: 36 bases, e.g. M=[[1, 5], [1, 15]]  variable sig=[7, 0, 17]  clause sig=[17, 0, 2]
+    p=29: 56 bases, e.g. M=[[1, 6], [1, 24]]  variable sig=[8, 0, 26]  clause sig=[8, 0, 21]
+    p=31: 60 bases, e.g. M=[[1, 13], [1, 19]]  variable sig=[15, 0, 21]  clause sig=[5, 0, 26]
+    p=41: 80 bases, e.g. M=[[1, 7], [1, 35]]  variable sig=[9, 0, 37]  clause sig=[19, 0, 22]
+k=2 (clause size)  r=3 (uses per variable): moduli that work -> none
+k=2 (clause size)  r=4 (uses per variable): moduli that work -> none
+k=3 (clause size)  r=2 (uses per variable): moduli that work -> [7]
+    p=7: 12 bases, e.g. M=[[1, 2], [1, 3]]  variable sig=[5, 0, 3]  clause sig=[2, 0, 4, 0]
+k=3 (clause size)  r=3 (uses per variable): moduli that work -> none
+k=3 (clause size)  r=4 (uses per variable): moduli that work -> none
+k=4 (clause size)  r=2 (uses per variable): moduli that work -> none
+k=4 (clause size)  r=3 (uses per variable): moduli that work -> none
+k=4 (clause size)  r=4 (uses per variable): moduli that work -> none
+k=5 (clause size)  r=2 (uses per variable): moduli that work -> [31]
+    p=31: 60 bases, e.g. M=[[1, 7], [1, 22]]  variable sig=[19, 0, 20]  clause sig=[0, 30, 0, 17, 0, 21]
+k=5 (clause size)  r=3 (uses per variable): moduli that work -> none
+k=5 (clause size)  r=4 (uses per variable): moduli that work -> none
+k=6 (clause size)  r=2 (uses per variable): moduli that work -> [7]
+    p=7: 12 bases, e.g. M=[[1, 2], [1, 3]]  variable sig=[5, 0, 3]  clause sig=[0, 6, 0, 5, 0, 3, 0]
+k=6 (clause size)  r=3 (uses per variable): moduli that work -> none
+k=6 (clause size)  r=4 (uses per variable): moduli that work -> none

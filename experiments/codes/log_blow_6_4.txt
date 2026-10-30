@@ -1,0 +1,16 @@
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 9, 'QR': 10.667, 'tau': np.float64(0.5), 'opt': False, 'nS': 6, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 15, 'QR': 6.4, 'tau': np.float64(0.5), 'opt': False, 'nS': 8, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 17, 'QR': 5.647, 'tau': np.float64(0.3877), 'opt': False, 'nS': 18, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 21, 'QR': 4.571, 'tau': np.float64(0.3877), 'opt': False, 'nS': 26, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 23, 'QR': 4.174, 'tau': np.float64(0.5), 'opt': False, 'nS': 30, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 25, 'QR': 3.84, 'tau': np.float64(0.60268), 'opt': False, 'nS': 52, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 27, 'QR': 3.556, 'tau': np.float64(0.5), 'opt': False, 'nS': 62, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 29, 'QR': 3.31, 'tau': np.float64(0.5), 'opt': False, 'nS': 88, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 31, 'QR': 3.097, 'tau': np.float64(0.61673), 'opt': False, 'nS': 102, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 33, 'QR': 2.909, 'tau': np.float64(0.47007), 'opt': False, 'nS': 227, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 35, 'QR': 2.743, 'tau': np.float64(0.81432), 'opt': False, 'nS': 279, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 37, 'QR': 2.595, 'tau': np.float64(0.84709), 'opt': False, 'nS': 383, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 39, 'QR': 2.462, 'tau': np.float64(0.81023), 'opt': False, 'nS': 477, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 41, 'QR': 2.341, 'tau': np.float64(0.74318), 'opt': False, 'nS': 743, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 43, 'QR': 2.233, 'tau': np.float64(0.72873), 'opt': False, 'nS': 853, 'nT': 1469}
+{'family': 'cut(C6[4])', 'k': 23, 'Q': 96, 'R': 45, 'QR': 2.133, 'tau': np.float64(0.6541), 'opt': False, 'nS': 1116, 'nT': 1469}

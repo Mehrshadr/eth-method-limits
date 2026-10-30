@@ -1,0 +1,226 @@
+{"name": "cube4", "k": 4, "Q": 4, "R": 2, "Q_over_R": 2.0, "tau": 0.375, "optimal": true}
+{"name": "cube4", "k": 4, "Q": 4, "R": 3, "Q_over_R": 1.33, "tau": 0.125, "optimal": true}
+{"name": "cube5", "k": 5, "Q": 5, "R": 2, "Q_over_R": 2.5, "tau": 0.375, "optimal": true}
+{"name": "cube5", "k": 5, "Q": 5, "R": 3, "Q_over_R": 1.67, "tau": 0.219, "optimal": true}
+{"name": "cube5", "k": 5, "Q": 5, "R": 4, "Q_over_R": 1.25, "tau": 0.062, "optimal": true}
+{"name": "cube6", "k": 6, "Q": 6, "R": 2, "Q_over_R": 3.0, "tau": 0.453, "optimal": false}
+{"name": "cube6", "k": 6, "Q": 6, "R": 3, "Q_over_R": 2.0, "tau": 0.219, "optimal": false}
+{"name": "cube6", "k": 6, "Q": 6, "R": 4, "Q_over_R": 1.5, "tau": 0.125, "optimal": false}
+{"name": "cube6", "k": 6, "Q": 6, "R": 5, "Q_over_R": 1.2, "tau": 0.031, "optimal": true}
+{"name": "cube7", "k": 7, "Q": 7, "R": 2, "Q_over_R": 3.5, "tau": 0.453, "optimal": false}
+{"name": "cube7", "k": 7, "Q": 7, "R": 3, "Q_over_R": 2.33, "tau": 0.289, "optimal": false}
+{"name": "cube7", "k": 7, "Q": 7, "R": 4, "Q_over_R": 1.75, "tau": 0.125, "optimal": false}
+{"name": "cube7", "k": 7, "Q": 7, "R": 5, "Q_over_R": 1.4, "tau": 0.062, "optimal": false}
+{"name": "cube7", "k": 7, "Q": 7, "R": 6, "Q_over_R": 1.17, "tau": 0.016, "optimal": true}
+{"name": "K2,3-cuts", "k": 4, "Q": 6, "R": 2, "Q_over_R": 3.0, "tau": 0.5, "optimal": true}
+{"name": "K2,3-cuts", "k": 4, "Q": 6, "R": 3, "Q_over_R": 2.0, "tau": 0.25, "optimal": true}
+{"name": "K2,3-cuts", "k": 4, "Q": 6, "R": 4, "Q_over_R": 1.5, "tau": 0.125, "optimal": true}
+{"name": "K2,3-cuts", "k": 4, "Q": 6, "R": 5, "Q_over_R": 1.2, "tau": 0.062, "optimal": true}
+{"name": "K3,3-cuts", "k": 5, "Q": 9, "R": 2, "Q_over_R": 4.5, "tau": 0.5, "optimal": true}
+{"name": "K3,3-cuts", "k": 5, "Q": 9, "R": 3, "Q_over_R": 3.0, "tau": 0.5, "optimal": true}
+{"name": "K3,3-cuts", "k": 5, "Q": 9, "R": 4, "Q_over_R": 2.25, "tau": 0.25, "optimal": true}
+{"name": "K3,3-cuts", "k": 5, "Q": 9, "R": 5, "Q_over_R": 1.8, "tau": 0.219, "optimal": true}
+{"name": "K3,3-cuts", "k": 5, "Q": 9, "R": 6, "Q_over_R": 1.5, "tau": 0.062, "optimal": true}
+{"name": "K3,3-cuts", "k": 5, "Q": 9, "R": 7, "Q_over_R": 1.29, "tau": 0.031, "optimal": true}
+{"name": "K3,3-cuts", "k": 5, "Q": 9, "R": 8, "Q_over_R": 1.12, "tau": 0.031, "optimal": true}
+{"name": "K3,4-cuts", "k": 6, "Q": 12, "R": 2, "Q_over_R": 6.0, "tau": 0.5, "optimal": true}
+{"name": "K3,4-cuts", "k": 6, "Q": 12, "R": 3, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "K3,4-cuts", "k": 6, "Q": 12, "R": 4, "Q_over_R": 3.0, "tau": 0.375, "optimal": true}
+{"name": "K3,4-cuts", "k": 6, "Q": 12, "R": 5, "Q_over_R": 2.4, "tau": 0.25, "optimal": true}
+{"name": "K3,4-cuts", "k": 6, "Q": 12, "R": 6, "Q_over_R": 2.0, "tau": 0.25, "optimal": false}
+{"name": "K3,4-cuts", "k": 6, "Q": 12, "R": 7, "Q_over_R": 1.71, "tau": 0.062, "optimal": true}
+{"name": "K3,4-cuts", "k": 6, "Q": 12, "R": 8, "Q_over_R": 1.5, "tau": 0.062, "optimal": true}
+{"name": "K2,5-cuts", "k": 6, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "K2,5-cuts", "k": 6, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.375, "optimal": true}
+{"name": "K2,5-cuts", "k": 6, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.375, "optimal": true}
+{"name": "K2,5-cuts", "k": 6, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.219, "optimal": false}
+{"name": "K2,5-cuts", "k": 6, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.109, "optimal": true}
+{"name": "K2,5-cuts", "k": 6, "Q": 10, "R": 7, "Q_over_R": 1.43, "tau": 0.031, "optimal": true}
+{"name": "K2,5-cuts", "k": 6, "Q": 10, "R": 8, "Q_over_R": 1.25, "tau": 0.031, "optimal": true}
+{"name": "K4,4-cuts", "k": 7, "Q": 16, "R": 2, "Q_over_R": 8.0, "tau": 0.5, "optimal": true}
+{"name": "K4,4-cuts", "k": 7, "Q": 16, "R": 3, "Q_over_R": 5.33, "tau": 0.5, "optimal": true}
+{"name": "K4,4-cuts", "k": 7, "Q": 16, "R": 4, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "K4,4-cuts", "k": 7, "Q": 16, "R": 5, "Q_over_R": 3.2, "tau": 0.375, "optimal": false}
+{"name": "K4,4-cuts", "k": 7, "Q": 16, "R": 6, "Q_over_R": 2.67, "tau": 0.375, "optimal": false}
+{"name": "K4,4-cuts", "k": 7, "Q": 16, "R": 7, "Q_over_R": 2.29, "tau": 0.281, "optimal": false}
+{"name": "K4,4-cuts", "k": 7, "Q": 16, "R": 8, "Q_over_R": 2.0, "tau": 0.281, "optimal": false}
+{"name": "rand k5 Q8 w3 #0", "k": 5, "Q": 8, "R": 2, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #0", "k": 5, "Q": 8, "R": 3, "Q_over_R": 2.67, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #0", "k": 5, "Q": 8, "R": 4, "Q_over_R": 2.0, "tau": 0.25, "optimal": true}
+{"name": "rand k5 Q8 w3 #0", "k": 5, "Q": 8, "R": 5, "Q_over_R": 1.6, "tau": 0.125, "optimal": true}
+{"name": "rand k5 Q8 w3 #0", "k": 5, "Q": 8, "R": 6, "Q_over_R": 1.33, "tau": 0.062, "optimal": true}
+{"name": "rand k5 Q8 w3 #1", "k": 5, "Q": 8, "R": 2, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #1", "k": 5, "Q": 8, "R": 3, "Q_over_R": 2.67, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #1", "k": 5, "Q": 8, "R": 4, "Q_over_R": 2.0, "tau": 0.25, "optimal": true}
+{"name": "rand k5 Q8 w3 #1", "k": 5, "Q": 8, "R": 5, "Q_over_R": 1.6, "tau": 0.125, "optimal": true}
+{"name": "rand k5 Q8 w3 #1", "k": 5, "Q": 8, "R": 6, "Q_over_R": 1.33, "tau": 0.062, "optimal": true}
+{"name": "rand k5 Q8 w3 #2", "k": 5, "Q": 8, "R": 2, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #2", "k": 5, "Q": 8, "R": 3, "Q_over_R": 2.67, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #2", "k": 5, "Q": 8, "R": 4, "Q_over_R": 2.0, "tau": 0.25, "optimal": true}
+{"name": "rand k5 Q8 w3 #2", "k": 5, "Q": 8, "R": 5, "Q_over_R": 1.6, "tau": 0.125, "optimal": true}
+{"name": "rand k5 Q8 w3 #2", "k": 5, "Q": 8, "R": 6, "Q_over_R": 1.33, "tau": 0.062, "optimal": true}
+{"name": "rand k5 Q8 w3 #3", "k": 5, "Q": 8, "R": 2, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #3", "k": 5, "Q": 8, "R": 3, "Q_over_R": 2.67, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #3", "k": 5, "Q": 8, "R": 4, "Q_over_R": 2.0, "tau": 0.25, "optimal": true}
+{"name": "rand k5 Q8 w3 #3", "k": 5, "Q": 8, "R": 5, "Q_over_R": 1.6, "tau": 0.125, "optimal": true}
+{"name": "rand k5 Q8 w3 #3", "k": 5, "Q": 8, "R": 6, "Q_over_R": 1.33, "tau": 0.062, "optimal": true}
+{"name": "rand k5 Q8 w3 #4", "k": 5, "Q": 8, "R": 2, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #4", "k": 5, "Q": 8, "R": 3, "Q_over_R": 2.67, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #4", "k": 5, "Q": 8, "R": 4, "Q_over_R": 2.0, "tau": 0.25, "optimal": true}
+{"name": "rand k5 Q8 w3 #4", "k": 5, "Q": 8, "R": 5, "Q_over_R": 1.6, "tau": 0.125, "optimal": true}
+{"name": "rand k5 Q8 w3 #4", "k": 5, "Q": 8, "R": 6, "Q_over_R": 1.33, "tau": 0.062, "optimal": true}
+{"name": "rand k5 Q8 w3 #5", "k": 5, "Q": 8, "R": 2, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #5", "k": 5, "Q": 8, "R": 3, "Q_over_R": 2.67, "tau": 0.5, "optimal": true}
+{"name": "rand k5 Q8 w3 #5", "k": 5, "Q": 8, "R": 4, "Q_over_R": 2.0, "tau": 0.25, "optimal": true}
+{"name": "rand k5 Q8 w3 #5", "k": 5, "Q": 8, "R": 5, "Q_over_R": 1.6, "tau": 0.125, "optimal": true}
+{"name": "rand k5 Q8 w3 #5", "k": 5, "Q": 8, "R": 6, "Q_over_R": 1.33, "tau": 0.062, "optimal": true}
+{"name": "rand k6 Q9 w3 #0", "k": 6, "Q": 9, "R": 2, "Q_over_R": 4.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #0", "k": 6, "Q": 9, "R": 3, "Q_over_R": 3.0, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #0", "k": 6, "Q": 9, "R": 4, "Q_over_R": 2.25, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q9 w3 #0", "k": 6, "Q": 9, "R": 5, "Q_over_R": 1.8, "tau": 0.188, "optimal": false}
+{"name": "rand k6 Q9 w3 #0", "k": 6, "Q": 9, "R": 6, "Q_over_R": 1.5, "tau": 0.062, "optimal": true}
+{"name": "rand k6 Q9 w3 #1", "k": 6, "Q": 9, "R": 2, "Q_over_R": 4.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #1", "k": 6, "Q": 9, "R": 3, "Q_over_R": 3.0, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #1", "k": 6, "Q": 9, "R": 4, "Q_over_R": 2.25, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q9 w3 #1", "k": 6, "Q": 9, "R": 5, "Q_over_R": 1.8, "tau": 0.188, "optimal": false}
+{"name": "rand k6 Q9 w3 #1", "k": 6, "Q": 9, "R": 6, "Q_over_R": 1.5, "tau": 0.062, "optimal": true}
+{"name": "rand k6 Q9 w3 #2", "k": 6, "Q": 9, "R": 2, "Q_over_R": 4.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #2", "k": 6, "Q": 9, "R": 3, "Q_over_R": 3.0, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #2", "k": 6, "Q": 9, "R": 4, "Q_over_R": 2.25, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q9 w3 #2", "k": 6, "Q": 9, "R": 5, "Q_over_R": 1.8, "tau": 0.188, "optimal": false}
+{"name": "rand k6 Q9 w3 #2", "k": 6, "Q": 9, "R": 6, "Q_over_R": 1.5, "tau": 0.062, "optimal": true}
+{"name": "rand k6 Q9 w3 #3", "k": 6, "Q": 9, "R": 2, "Q_over_R": 4.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #3", "k": 6, "Q": 9, "R": 3, "Q_over_R": 3.0, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #3", "k": 6, "Q": 9, "R": 4, "Q_over_R": 2.25, "tau": 0.344, "optimal": false}
+{"name": "rand k6 Q9 w3 #3", "k": 6, "Q": 9, "R": 5, "Q_over_R": 1.8, "tau": 0.188, "optimal": false}
+{"name": "rand k6 Q9 w3 #3", "k": 6, "Q": 9, "R": 6, "Q_over_R": 1.5, "tau": 0.062, "optimal": true}
+{"name": "rand k6 Q9 w3 #4", "k": 6, "Q": 9, "R": 2, "Q_over_R": 4.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #4", "k": 6, "Q": 9, "R": 3, "Q_over_R": 3.0, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #4", "k": 6, "Q": 9, "R": 4, "Q_over_R": 2.25, "tau": 0.234, "optimal": false}
+{"name": "rand k6 Q9 w3 #4", "k": 6, "Q": 9, "R": 5, "Q_over_R": 1.8, "tau": 0.188, "optimal": false}
+{"name": "rand k6 Q9 w3 #4", "k": 6, "Q": 9, "R": 6, "Q_over_R": 1.5, "tau": 0.062, "optimal": true}
+{"name": "rand k6 Q9 w3 #5", "k": 6, "Q": 9, "R": 2, "Q_over_R": 4.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #5", "k": 6, "Q": 9, "R": 3, "Q_over_R": 3.0, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q9 w3 #5", "k": 6, "Q": 9, "R": 4, "Q_over_R": 2.25, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q9 w3 #5", "k": 6, "Q": 9, "R": 5, "Q_over_R": 1.8, "tau": 0.188, "optimal": false}
+{"name": "rand k6 Q9 w3 #5", "k": 6, "Q": 9, "R": 6, "Q_over_R": 1.5, "tau": 0.062, "optimal": true}
+{"name": "rand k6 Q11 w3 #0", "k": 6, "Q": 11, "R": 2, "Q_over_R": 5.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #0", "k": 6, "Q": 11, "R": 3, "Q_over_R": 3.67, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #0", "k": 6, "Q": 11, "R": 4, "Q_over_R": 2.75, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #0", "k": 6, "Q": 11, "R": 5, "Q_over_R": 2.2, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q11 w3 #0", "k": 6, "Q": 11, "R": 6, "Q_over_R": 1.83, "tau": 0.125, "optimal": true}
+{"name": "rand k6 Q11 w3 #1", "k": 6, "Q": 11, "R": 2, "Q_over_R": 5.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #1", "k": 6, "Q": 11, "R": 3, "Q_over_R": 3.67, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #1", "k": 6, "Q": 11, "R": 4, "Q_over_R": 2.75, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #1", "k": 6, "Q": 11, "R": 5, "Q_over_R": 2.2, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q11 w3 #1", "k": 6, "Q": 11, "R": 6, "Q_over_R": 1.83, "tau": 0.125, "optimal": true}
+{"name": "rand k6 Q11 w3 #2", "k": 6, "Q": 11, "R": 2, "Q_over_R": 5.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #2", "k": 6, "Q": 11, "R": 3, "Q_over_R": 3.67, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #2", "k": 6, "Q": 11, "R": 4, "Q_over_R": 2.75, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #2", "k": 6, "Q": 11, "R": 5, "Q_over_R": 2.2, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q11 w3 #2", "k": 6, "Q": 11, "R": 6, "Q_over_R": 1.83, "tau": 0.125, "optimal": true}
+{"name": "rand k6 Q11 w3 #3", "k": 6, "Q": 11, "R": 2, "Q_over_R": 5.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #3", "k": 6, "Q": 11, "R": 3, "Q_over_R": 3.67, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #3", "k": 6, "Q": 11, "R": 4, "Q_over_R": 2.75, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #3", "k": 6, "Q": 11, "R": 5, "Q_over_R": 2.2, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q11 w3 #3", "k": 6, "Q": 11, "R": 6, "Q_over_R": 1.83, "tau": 0.125, "optimal": true}
+{"name": "rand k6 Q11 w3 #4", "k": 6, "Q": 11, "R": 2, "Q_over_R": 5.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #4", "k": 6, "Q": 11, "R": 3, "Q_over_R": 3.67, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #4", "k": 6, "Q": 11, "R": 4, "Q_over_R": 2.75, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #4", "k": 6, "Q": 11, "R": 5, "Q_over_R": 2.2, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q11 w3 #4", "k": 6, "Q": 11, "R": 6, "Q_over_R": 1.83, "tau": 0.125, "optimal": true}
+{"name": "rand k6 Q11 w3 #5", "k": 6, "Q": 11, "R": 2, "Q_over_R": 5.5, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #5", "k": 6, "Q": 11, "R": 3, "Q_over_R": 3.67, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #5", "k": 6, "Q": 11, "R": 4, "Q_over_R": 2.75, "tau": 0.5, "optimal": true}
+{"name": "rand k6 Q11 w3 #5", "k": 6, "Q": 11, "R": 5, "Q_over_R": 2.2, "tau": 0.25, "optimal": true}
+{"name": "rand k6 Q11 w3 #5", "k": 6, "Q": 11, "R": 6, "Q_over_R": 1.83, "tau": 0.125, "optimal": true}
+{"name": "rand k7 Q10 w2 #0", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #0", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #0", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #0", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.219, "optimal": false}
+{"name": "rand k7 Q10 w2 #0", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.219, "optimal": false}
+{"name": "rand k7 Q10 w2 #1", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #1", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #1", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #1", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.227, "optimal": false}
+{"name": "rand k7 Q10 w2 #1", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.227, "optimal": false}
+{"name": "rand k7 Q10 w2 #2", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #2", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #2", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #2", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.227, "optimal": false}
+{"name": "rand k7 Q10 w2 #2", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.227, "optimal": false}
+{"name": "rand k7 Q10 w2 #3", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #3", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #3", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #3", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.219, "optimal": false}
+{"name": "rand k7 Q10 w2 #3", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.219, "optimal": false}
+{"name": "rand k7 Q10 w2 #4", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #4", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #4", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #4", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.219, "optimal": false}
+{"name": "rand k7 Q10 w2 #4", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.219, "optimal": false}
+{"name": "rand k7 Q10 w2 #5", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #5", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #5", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w2 #5", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.172, "optimal": false}
+{"name": "rand k7 Q10 w2 #5", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.172, "optimal": false}
+{"name": "rand k7 Q10 w3 #0", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #0", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #0", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.344, "optimal": false}
+{"name": "rand k7 Q10 w3 #0", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.188, "optimal": false}
+{"name": "rand k7 Q10 w3 #0", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.117, "optimal": false}
+{"name": "rand k7 Q10 w3 #1", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #1", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #1", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.344, "optimal": false}
+{"name": "rand k7 Q10 w3 #1", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.188, "optimal": false}
+{"name": "rand k7 Q10 w3 #1", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.117, "optimal": false}
+{"name": "rand k7 Q10 w3 #2", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #2", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #2", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.344, "optimal": false}
+{"name": "rand k7 Q10 w3 #2", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.188, "optimal": false}
+{"name": "rand k7 Q10 w3 #2", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.125, "optimal": false}
+{"name": "rand k7 Q10 w3 #3", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #3", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #3", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.375, "optimal": false}
+{"name": "rand k7 Q10 w3 #3", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.188, "optimal": false}
+{"name": "rand k7 Q10 w3 #3", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.117, "optimal": false}
+{"name": "rand k7 Q10 w3 #4", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #4", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #4", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.344, "optimal": false}
+{"name": "rand k7 Q10 w3 #4", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.234, "optimal": false}
+{"name": "rand k7 Q10 w3 #4", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.117, "optimal": false}
+{"name": "rand k7 Q10 w3 #5", "k": 7, "Q": 10, "R": 2, "Q_over_R": 5.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #5", "k": 7, "Q": 10, "R": 3, "Q_over_R": 3.33, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q10 w3 #5", "k": 7, "Q": 10, "R": 4, "Q_over_R": 2.5, "tau": 0.344, "optimal": false}
+{"name": "rand k7 Q10 w3 #5", "k": 7, "Q": 10, "R": 5, "Q_over_R": 2.0, "tau": 0.188, "optimal": false}
+{"name": "rand k7 Q10 w3 #5", "k": 7, "Q": 10, "R": 6, "Q_over_R": 1.67, "tau": 0.109, "optimal": false}
+{"name": "rand k7 Q12 w3 #0", "k": 7, "Q": 12, "R": 2, "Q_over_R": 6.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #0", "k": 7, "Q": 12, "R": 3, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #0", "k": 7, "Q": 12, "R": 4, "Q_over_R": 3.0, "tau": 0.375, "optimal": false}
+{"name": "rand k7 Q12 w3 #0", "k": 7, "Q": 12, "R": 5, "Q_over_R": 2.4, "tau": 0.25, "optimal": false}
+{"name": "rand k7 Q12 w3 #0", "k": 7, "Q": 12, "R": 6, "Q_over_R": 2.0, "tau": 0.25, "optimal": false}
+{"name": "rand k7 Q12 w3 #1", "k": 7, "Q": 12, "R": 2, "Q_over_R": 6.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #1", "k": 7, "Q": 12, "R": 3, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #1", "k": 7, "Q": 12, "R": 4, "Q_over_R": 3.0, "tau": 0.375, "optimal": false}
+{"name": "rand k7 Q12 w3 #1", "k": 7, "Q": 12, "R": 5, "Q_over_R": 2.4, "tau": 0.25, "optimal": false}
+{"name": "rand k7 Q12 w3 #1", "k": 7, "Q": 12, "R": 6, "Q_over_R": 2.0, "tau": 0.25, "optimal": false}
+{"name": "rand k7 Q12 w3 #2", "k": 7, "Q": 12, "R": 2, "Q_over_R": 6.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #2", "k": 7, "Q": 12, "R": 3, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #2", "k": 7, "Q": 12, "R": 4, "Q_over_R": 3.0, "tau": 0.375, "optimal": false}
+{"name": "rand k7 Q12 w3 #2", "k": 7, "Q": 12, "R": 5, "Q_over_R": 2.4, "tau": 0.25, "optimal": false}
+{"name": "rand k7 Q12 w3 #2", "k": 7, "Q": 12, "R": 6, "Q_over_R": 2.0, "tau": 0.188, "optimal": false}
+{"name": "rand k7 Q12 w3 #3", "k": 7, "Q": 12, "R": 2, "Q_over_R": 6.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #3", "k": 7, "Q": 12, "R": 3, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #3", "k": 7, "Q": 12, "R": 4, "Q_over_R": 3.0, "tau": 0.375, "optimal": false}
+{"name": "rand k7 Q12 w3 #3", "k": 7, "Q": 12, "R": 5, "Q_over_R": 2.4, "tau": 0.25, "optimal": false}
+{"name": "rand k7 Q12 w3 #3", "k": 7, "Q": 12, "R": 6, "Q_over_R": 2.0, "tau": 0.188, "optimal": false}
+{"name": "rand k7 Q12 w3 #4", "k": 7, "Q": 12, "R": 2, "Q_over_R": 6.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #4", "k": 7, "Q": 12, "R": 3, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #4", "k": 7, "Q": 12, "R": 4, "Q_over_R": 3.0, "tau": 0.375, "optimal": false}
+{"name": "rand k7 Q12 w3 #4", "k": 7, "Q": 12, "R": 5, "Q_over_R": 2.4, "tau": 0.25, "optimal": false}
+{"name": "rand k7 Q12 w3 #4", "k": 7, "Q": 12, "R": 6, "Q_over_R": 2.0, "tau": 0.25, "optimal": false}
+{"name": "rand k7 Q12 w3 #5", "k": 7, "Q": 12, "R": 2, "Q_over_R": 6.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #5", "k": 7, "Q": 12, "R": 3, "Q_over_R": 4.0, "tau": 0.5, "optimal": true}
+{"name": "rand k7 Q12 w3 #5", "k": 7, "Q": 12, "R": 4, "Q_over_R": 3.0, "tau": 0.375, "optimal": false}
+{"name": "rand k7 Q12 w3 #5", "k": 7, "Q": 12, "R": 5, "Q_over_R": 2.4, "tau": 0.25, "optimal": false}
+{"name": "rand k7 Q12 w3 #5", "k": 7, "Q": 12, "R": 6, "Q_over_R": 2.0, "tau": 0.258, "optimal": false}

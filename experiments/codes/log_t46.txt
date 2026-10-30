@@ -1,0 +1,2 @@
+{'family': 'cut(C4xC6)', 'k': 23, 'Q': 48, 'R': 5, 'QR': 9.6, 'tau': 0.5, 'opt': True, 'nO': 3, 'nT': 85, 'nB': 25, 'sec': 4.4}
+{'family': 'cut(C4xC6)', 'k': 23, 'Q': 48, 'R': 7, 'QR': 6.857, 'tau': 0.5, 'opt': False, 'nO': 5, 'nT': 1801, 'nB': 73, 'sec': 9.6}

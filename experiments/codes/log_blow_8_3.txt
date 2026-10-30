@@ -1,0 +1,8 @@
+{'family': 'cut(C8[3])', 'k': 23, 'Q': 72, 'R': 7, 'QR': 10.286, 'tau': np.float64(0.5), 'opt': False, 'nS': 6, 'nT': 4388}
+{'family': 'cut(C8[3])', 'k': 23, 'Q': 72, 'R': 11, 'QR': 6.545, 'tau': np.float64(0.5), 'opt': False, 'nS': 8, 'nT': 4388}
+{'family': 'cut(C8[3])', 'k': 23, 'Q': 72, 'R': 13, 'QR': 5.538, 'tau': np.float64(0.37158), 'opt': False, 'nS': 22, 'nT': 4388}
+{'family': 'cut(C8[3])', 'k': 23, 'Q': 72, 'R': 15, 'QR': 4.8, 'tau': np.float64(0.3877), 'opt': False, 'nS': 30, 'nT': 4388}
+{'family': 'cut(C8[3])', 'k': 23, 'Q': 72, 'R': 17, 'QR': 4.235, 'tau': np.float64(0.5), 'opt': False, 'nS': 44, 'nT': 4388}
+{'family': 'cut(C8[3])', 'k': 23, 'Q': 72, 'R': 19, 'QR': 3.789, 'tau': np.float64(0.5), 'opt': False, 'nS': 135, 'nT': 4388}
+{'family': 'cut(C8[3])', 'k': 23, 'Q': 72, 'R': 21, 'QR': 3.429, 'tau': np.float64(0.55469), 'opt': False, 'nS': 201, 'nT': 4388}
+{'family': 'cut(C8[3])', 'k': 23, 'Q': 72, 'R': 23, 'QR': 3.13, 'tau': np.float64(0.7297), 'opt': False, 'nS': 308, 'nT': 4388}

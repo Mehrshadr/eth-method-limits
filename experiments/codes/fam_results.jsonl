@@ -1,0 +1,14 @@
+{"family": "cut(C4xC4)", "k": 15, "Q": 32, "R": 5, "QR": 6.4, "tau": 0.5, "opt": true, "nO": 3, "nT": 41, "nB": 17, "sec": 0.2}
+{"family": "cut(C4xC6)", "k": 23, "Q": 48, "R": 5, "QR": 9.6, "tau": 0.5, "opt": true, "nO": 3, "nT": 85, "nB": 25, "sec": 4.4}
+{"family": "cut(C4xC6)", "k": 23, "Q": 48, "R": 7, "QR": 6.857, "tau": 0.5, "opt": false, "nO": 5, "nT": 1801, "nB": 73, "sec": 9.6}
+{"family": "cut(C4xC4)", "k": 15, "Q": 32, "R": 7, "QR": 4.571, "tau": 0.5, "opt": false, "nO": 4, "nT": 127, "nB": 49, "sec": 30.2}
+{"family": "cut(C4xC4)", "k": 15, "Q": 32, "R": 9, "QR": 3.556, "tau": 0.3916015625, "opt": false, "nO": 18, "nT": 758, "nB": 261, "sec": 31.0}
+{"family": "cut(C4xC4)", "k": 15, "Q": 32, "R": 11, "QR": 2.909, "tau": 0.5, "opt": false, "nO": 37, "nT": 792, "nB": 1125, "sec": 31.9}
+{"family": "cut(C4xC4)", "k": 15, "Q": 32, "R": 13, "QR": 2.462, "tau": 0.73046875, "opt": false, "nO": 139, "nT": 793, "nB": 4469, "sec": 38.0}
+{"family": "cut(C4xC4)", "k": 15, "Q": 32, "R": 15, "QR": 2.133, "tau": 0.4931640625, "opt": false, "nO": 263, "nT": 793, "nB": 11253, "sec": 53.7}
+{"family": "cut(C4xC4)", "k": 15, "Q": 32, "R": 17, "QR": 1.882, "tau": 0.02154541015625, "opt": false, "nO": 530, "nT": 793, "nB": 21515, "sec": 74.6}
+{"family": "lines AG(2,8)", "k": 27, "Q": 64, "R": 9, "QR": 7.111, "tau": 0.5, "opt": true, "nO": 2, "nT": 21, "nB": 73, "sec": 111.8}
+{"family": "lines AG(2,8)", "k": 27, "Q": 64, "R": 15, "QR": 4.267, "tau": 0.5, "opt": true, "nO": 3, "nT": 68, "nB": 2377, "sec": 178.4}
+{"family": "lines AG(2,8)", "k": 27, "Q": 64, "R": 17, "QR": 3.765, "tau": 0.48630332946777344, "opt": true, "nO": 4, "nT": 68, "nB": 2629, "sec": 257.4}
+{"family": "lines AG(2,8)", "k": 27, "Q": 64, "R": 19, "QR": 3.368, "tau": 0.48630332946777344, "opt": false, "nO": 5, "nT": 142, "nB": 40261, "sec": 381.8}
+{"family": "lines AG(2,8)", "k": 27, "Q": 64, "R": 21, "QR": 3.048, "tau": 0.48630332946777344, "opt": false, "nO": 9, "nT": 269, "nB": 395077, "sec": 572.1}
